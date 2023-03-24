@@ -1,0 +1,6 @@
+google-cloud-bigquery
+pandas
+ipykernel
+pyarrow
+pandas-gbq
+google-auth
